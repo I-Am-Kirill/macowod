@@ -1,8 +1,8 @@
+<img aling="right" alt="coding" width="100%" height='400px' src="https://s166vla.storage.yandex.net/rdisk/c5e8a83aa62a51e731ef77eaa644e61e56a67eb939f59edb8dcf0e5308a1092a/630e8a12/qy1rht91xTfJlNQThptDMMpllHT_Tk0Oid3Hb_ApYKFea6r6BET70cfGirZfGf0vbt99vVpWBXA3qQYstq7h-w==?uid=0&filename=ORIGINAL.gif&disposition=inline&hash=&limit=0&content_type=image%2Fgif&owner_uid=0&fsize=2713337&hid=10db398f26978384ec5a5b8473fd5263&media_type=image&tknv=v2&etag=de9080fa87237460bfff05d9650a11e1&rtoken=3FDcxHDh9lcs&force_default=no&ycrid=na-5d30cf0ce2e5a2707c530d2d788a0857-downloader8h&ts=5e77c9a492880&s=4ad65d2648d969a35cc9357a5cfba40368b969ab4f6224b6ddb34991a6b96557&pb=U2FsdGVkX1-xlVQNciLlxoC6ol3tANEwlVC_1Nx_easpIZEN1ggWdElLfvXSNl6waM5HOKnXtFtx3q6K4Cud0Tvwhiq7otYtMlOWXVEX9_o">
+
 <h1 align="center">Hi 👋, I'm Kirill Mikhaylets</h1>
 <h3 align="center">Full Stack developer</h3>
 <img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=I-Am-Kirill" alt="I-Am-Kirill" /></a> </p>
 
 - 🌱 I’m currently learning **mySQL, TypeScript**
 
