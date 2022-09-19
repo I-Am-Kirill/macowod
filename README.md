@@ -2,12 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Kirill Mikhaylets</h1>
 <h3 align="center">Full Stack developer</h3>
-
-<div display="flex">
-<div> 
 <img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966">
-</div>
-<div>
+  
 - 🌱 I’m currently learning **mySQL, TypeScript**
 
 - 💬 Ask me about **React, Js, Git, CSS, HTML5, Express.js, Node.js, SQL, PostgreSQL**
@@ -15,10 +11,12 @@
 - 📫 How to reach me **kirill28102002@icloud**
 
 - ⚡ Fact about me **I love writing code, and I think that writing code is comparable to creativity. I am a sociable and responsive person. I can work both individually and in a team.**
-</div>
-</div>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://s412vla.storage.yandex.net/rdisk/5e1b835c676b727f3e713fe56a9c112911aefda318fbf5f77298e24591c75bff/632896ae/9sadPsT_fK7vdTG4hEqmbnNyHuGuI9hO9k-N5zmNb7fxCbQz9eJDAyh1JyKrBjNjWZ6BiCDim4iORZyciFj-yg==?uid=0&filename=telegramlogo-260-75.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=13289&hid=61edf363da1e89c1fc34498ddb6feada&media_type=image&tknv=v2&etag=2c0f364b18a6289b89bdf0c1bea5eece&rtoken=P3sKIT5eS8BN&force_default=no&ycrid=na-f5d5d4776431797a82d527354456a30e-downloader23f&ts=5e90a15308780&s=dd8e542d6b129d20648b41673b8e1cf9ffa051a2fc6df99354b51bb449fbcccd&pb=U2FsdGVkX19bJIoUMtj9xwQZTGTG0qw920O0H7jhUIuH9yjzZmoS_0jxssxrU3Jhkl9AQ4eakTzTqFQLsB41rVNXihMFD1doBKT6Mu4Q37s" alt="tg" width="110" height="40"/> </a>
+
+
+
 <p align="left">
 </p>
 
